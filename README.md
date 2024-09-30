@@ -9,11 +9,11 @@ You'll need to create a secrets.h file that contains
 Sample usage  
 
 Either  
-> DO FORM aichat for a GUI
->  
+` DO FORM aichat for a GUI `
+
 or  
-> DO callazure.prg WITH "<Your prompt here>"
->
+` DO callazure.prg WITH "<Your prompt here>" `  
+
 
 
 Results are returned in JSON and must be parsed to be useful.  
